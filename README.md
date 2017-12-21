@@ -1,3 +1,5 @@
 # Ben-Perlin.github.io
 
-http://www.benperlin.com/
+Author: Ben Perlin
+
+Web address: http://www.benperlin.com/
